@@ -1,5 +1,5 @@
 # carprice-prediction
-A flask project use to predict the selling price of car
+A flask project which is use to predict the selling price of old car.It is an end to end project in which the prediction model is created using python and machine learning.
 # Demo
 Link : https://shilpi-carproject.herokuapp.com/
 # Deployment on Heroku
